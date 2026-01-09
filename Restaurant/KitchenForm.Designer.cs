@@ -48,7 +48,6 @@
             Controls.Add(textBox1);
             Name = "KitchenForm";
             Text = "KitchenForm";
-            FormClosed += KitchenForm_FormClosed;
             Load += KitchenForm_Load;
             ResumeLayout(false);
             PerformLayout();

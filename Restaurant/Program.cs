@@ -17,5 +17,6 @@ namespace Restaurant
             else
                 Application.Run(new WaiterForm());
         }
+        /// <summary>
     }
 }
